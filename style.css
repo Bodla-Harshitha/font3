@@ -1,0 +1,27 @@
+
+.header1{
+    width: 100%;
+    font-size: 25px;
+    margin:0px;
+box-shadow: 5px 5px 5px rgb(223, 76, 18);
+    }
+
+ .know{
+     color: rgba(168, 0, 0, 0.925);
+     font-size: 20px;
+ }   
+
+ .copy_right_footer{
+     position: fixed;
+     width: 100%;
+     bottom: 0;
+     background-color: rgb(10, 0, 0);
+     color:white;
+     line-height: 3;
+     text-align: center;
+ }
+ canvas{
+     border: 5px solid rgb(252, 3, 3);
+     border-radius: 20px;
+     box-shadow: 5px 5px 5px rgb(207, 135, 1);
+ }
